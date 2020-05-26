@@ -16,7 +16,7 @@ The endpoint for the token information service is as follows:
 https://HOST:8089/api/oauth/tokeninfo
 ```
 
-Getting information about a token from the authorization server only requires a `GET` request to the token info endpoint. For example:
+Getting information about a token from the authorization server only requires a `POST` request to the token info endpoint. For example:
 
 ```
 POST /api/oauth/tokeninfo HTTP/1.1
