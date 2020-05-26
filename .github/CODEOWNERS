@@ -51,8 +51,6 @@
 
 # Documentation files for APIM
 /content/en/docs/api_mgmt_overview/ @alexearnshaw
-
-/content/en/docs/apigtw_devguide/ @alexearnshaw
 /content/en/docs/apigtw_auth_auth/ @andreamussap
 /content/en/docs/apigtw_devguide/ @alexearnshaw
 /content/en/docs/apigtw_devops/ @andreamussap
